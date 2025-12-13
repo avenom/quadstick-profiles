@@ -5,9 +5,9 @@
 
 | Профиль | Описание |
 |---|:---:|
-|[Avenom (XBOX EMU) Universal Profile 1](https://docs.google.com/spreadsheets/d/1bZpHLYIW5-zqlm6kQdGfT7y04XFqEz4aRuzBkTB-qWs/)|Эмуляция геймпада Xbox без отключения клавиатуры и мыши.|
-|[Avenom (XBOX EMU) Universal Profile 2 - Triggers Toggle](https://docs.google.com/spreadsheets/d/1pJ4TOBbGcA1PxrOvQoUuYgMQguDnJRyXxQh9LkbhVjE/)|Эмуляция геймпада Xbox с зажатием кнопок LT и RT без отключения клавиатуры и мыши.
-|[Avenom (XBOX EMU) Forza Horizon 5](https://docs.google.com/spreadsheets/d/1TUjZFfkkpwTbS5aFpr2-yneP43I2gR0I_6C2vgAbFsg/)|Эмуляция геймпада Xbox с LT и RT на джойстике без отключения клавиатуры и мыши.|
+|[Avenom (XBOX EMU) Universal Profile 1](https://docs.google.com/spreadsheets/d/1bZpHLYIW5-zqlm6kQdGfT7y04XFqEz4aRuzBkTB-qWs/)|Универсальный профиль эмуляции геймпада Xbox|
+|[Avenom (XBOX EMU) Universal Profile 2 - Triggers Toggle](https://docs.google.com/spreadsheets/d/1pJ4TOBbGcA1PxrOvQoUuYgMQguDnJRyXxQh9LkbhVjE/)|Универсальный профиль эмуляции геймпада Xbox с зажатием кнопок LT и RT
+|[Avenom (XBOX EMU) Forza Horizon 5](https://docs.google.com/spreadsheets/d/1TUjZFfkkpwTbS5aFpr2-yneP43I2gR0I_6C2vgAbFsg/)|Профиль эмуляции геймпада Xbox с LT и RT на джойстике|
 
 ### Как добавить сторонний профиль управления в QuadStick Manager Program (QMP)
 
